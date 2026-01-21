@@ -21,16 +21,9 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 ---
 
-## Who This Is For
-
-- Salesforce Solution Architects
-- Senior Salesforce Developers
-- Admins managing complex orgs
-- Businesses scaling Salesforce across teams
-
 ---
 
-## Common Problems This Repo Solves
+## The Problems
 
 - Automation sprawl with no clear strategy
 - Fragile triggers and unscalable Flows
@@ -41,7 +34,7 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 ---
 
-## Solution Approach
+## The Solution 
 
 - Declarative-first where it makes sense
 - Apex only when it adds real value
@@ -52,7 +45,7 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 ---
 
-## Core Capabilities
+## Technical Implemetation
 
 ### Custom Development
 - Apex classes, triggers, and test frameworks
@@ -80,7 +73,7 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 ---
 
-## Screenshots & Visual Examples
+## Screenshots
 
 ### Lightning Web Components
 ![Account Dashboard](screenshots/lwc-components/account-dashboard.png)
@@ -120,16 +113,6 @@ Using these patterns helps teams:
 
 ---
 
-## Repository Breakdown
-
-| Folder | Purpose |
-|------|--------|
-| `force-app/` | Salesforce metadata & code |
-| `screenshots/` | UI, automation & reporting visuals |
-| `docs/` | Architecture & strategy documentation |
-| `scripts/` | Deployment & data management |
-| `config/` | Scratch org & environment setup |
-
 ---
 
 ## Skills Demonstrated
@@ -143,8 +126,4 @@ Using these patterns helps teams:
 
 ---
 
-## Final Note
-
-This repository is designed as a **reference for real Salesforce work**, not sample code.  
-Every pattern here reflects production constraints and long-term maintainability.
 
