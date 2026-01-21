@@ -7,7 +7,7 @@ This repository represents how Salesforce is built in **real organizations** —
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project showcases hands-on Salesforce experience across:
 
@@ -21,7 +21,7 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 ---
 
-## 🎯 Who This Is For
+## Who This Is For
 
 - Salesforce Solution Architects
 - Senior Salesforce Developers
@@ -30,7 +30,7 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 ---
 
-## 🚨 Common Problems This Repo Solves
+## Common Problems This Repo Solves
 
 - Automation sprawl with no clear strategy
 - Fragile triggers and unscalable Flows
@@ -41,7 +41,7 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 ---
 
-## ✅ Solution Approach
+## Solution Approach
 
 - Declarative-first where it makes sense
 - Apex only when it adds real value
@@ -52,27 +52,27 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 ---
 
-## 🧩 Core Capabilities
+## Core Capabilities
 
-### 🏗 Custom Development
+### Custom Development
 - Apex classes, triggers, and test frameworks
 - Lightning Web Components with clean UX
 - Aura components and Visualforce (including PDFs)
 - Classic → Lightning migration patterns
 
-### 🔄 Automation & Async Processing
+### Automation & Async Processing
 - Record-triggered and scheduled Flows
 - Approval processes and validations
 - Queueable, Batch, Future, Scheduled Apex
 - Error handling and retries
 
-### 🌐 Integrations
+### Integrations
 - REST & SOAP APIs
 - Webhooks and platform events
 - External services & middleware patterns
 - Secure authentication handling
 
-### 🔐 Security & Governance
+### Security & Governance
 - Profiles, permission sets, role hierarchy
 - Sharing rules & OWD configuration
 - Field-level security enforcement
@@ -80,11 +80,10 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 ---
 
-## 📸 Screenshots & Visual Examples
+## Screenshots & Visual Examples
 
 ### Lightning Web Components
 ![Account Dashboard](screenshots/lwc-components/account-dashboard.png)
-
 
 
 ### Automation (Flows)
@@ -101,7 +100,7 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 ---
 
-## 🏛 Architecture Overview
+## Architecture Overview
 
 Detailed architectural decisions and patterns are documented in:
 - `docs/architecture.md`
@@ -110,7 +109,7 @@ Detailed architectural decisions and patterns are documented in:
 
 ---
 
-## 🚀 Business Impact
+## Business Impact
 
 Using these patterns helps teams:
 - Reduce manual work through automation
@@ -121,7 +120,7 @@ Using these patterns helps teams:
 
 ---
 
-## 📁 Repository Breakdown
+## Repository Breakdown
 
 | Folder | Purpose |
 |------|--------|
@@ -133,7 +132,7 @@ Using these patterns helps teams:
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Salesforce Solution Architecture
 - Apex & LWC Development
@@ -144,7 +143,7 @@ Using these patterns helps teams:
 
 ---
 
-## 📌 Final Note
+## Final Note
 
 This repository is designed as a **reference for real Salesforce work**, not sample code.  
 Every pattern here reflects production constraints and long-term maintainability.
