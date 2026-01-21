@@ -21,8 +21,6 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 ---
 
----
-
 ## The Problems
 
 - Automation sprawl with no clear strategy
@@ -93,8 +91,6 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 ---
 
----
-
 ## Business Impact
 
 Using these patterns helps teams:
@@ -103,8 +99,6 @@ Using these patterns helps teams:
 - Scale users and data safely
 - Speed up releases with fewer regressions
 - Maintain clean, auditable Salesforce orgs
-
----
 
 ---
 
@@ -117,6 +111,5 @@ Using these patterns helps teams:
 - Security & Data Governance
 - DevOps & Release Management
 
----
 
 
