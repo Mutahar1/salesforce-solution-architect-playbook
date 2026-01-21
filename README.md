@@ -84,7 +84,7 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 ### Lightning Web Components
 ![Account Dashboard](screenshots/lwc-components/account-dashboard.png)
-![Account Dashboard](screenshots/lwc-components/rest-api-callout.(15).png)
+![Account Dashboard](screenshots/lwc-components/rest-api-callout(15).png)
 
 ### Automation (Flows)
 ![Record Triggered Flow](screenshots/flows/record-triggered-flow.png)
