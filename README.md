@@ -91,7 +91,8 @@ Built with an **architect mindset**, not tutorial shortcuts.
 ![Record Triggered Flow](screenshots/flows/record-triggered-flow.png)
 
 ### Integrations
-![REST API Callout](screenshots/integrations/rest-api-callout.png)
+![REST API Callout](screenshots/flows/record-triggered-flow.png (10).png)
+
 
 ### Security Configuration
 ![Permission Sets](screenshots/security/permission-sets.png)
