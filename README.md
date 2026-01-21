@@ -8,26 +8,47 @@ This repository represents how Salesforce is built in **real organizations** wit
 ---
 ## 🛠 Tech Stack
 
-![Salesforce](https://img.shields.io/badge/Salesforce-Enterprise%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+## 🛠 All-in-One Salesforce Tech Stack
+
+![Salesforce](https://img.shields.io/badge/Salesforce-Enterprise%20%7C%20Multi--Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-Enterprise-00A1E0?style=for-the-badge)
+![Service Cloud](https://img.shields.io/badge/Service_Cloud-Enterprise-00A1E0?style=for-the-badge)
+![Marketing Cloud](https://img.shields.io/badge/Marketing_Cloud-Email%20%26%20Journeys-00A1E0?style=for-the-badge)
+![Experience Cloud](https://img.shields.io/badge/Experience_Cloud-Portals%20%26%20Communities-00A1E0?style=for-the-badge)
+
 ![Apex](https://img.shields.io/badge/Apex-v60+-1798C1?style=for-the-badge)
 ![Lightning Web Components](https://img.shields.io/badge/LWC-v60+-0176D3?style=for-the-badge)
 ![Aura](https://img.shields.io/badge/Aura-Legacy%20Support-4B9CD3?style=for-the-badge)
 ![Visualforce](https://img.shields.io/badge/Visualforce-Classic%20%26%20Hybrid-005FB2?style=for-the-badge)
 
+![Flow Automation](https://img.shields.io/badge/Flow_Automation-Advanced-00A1E0?style=for-the-badge)
+![Approval Processes](https://img.shields.io/badge/Approval_Processes-Business%20Logic-00A1E0?style=for-the-badge)
+![Validation Rules](https://img.shields.io/badge/Validation_Rules-Data%20Integrity-00A1E0?style=for-the-badge)
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge)
-![Lightning Web Components](https://img.shields.io/badge/LWC-0176D3?style=for-the-badge)
-![Aura](https://img.shields.io/badge/Aura-4B9CD3?style=for-the-badge)
-![Visualforce](https://img.shields.io/badge/Visualforce-005FB2?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-v55+-FF6F00?style=for-the-badge)
+![SOAP API](https://img.shields.io/badge/SOAP_API-Enterprise%20Integration-FF6F00?style=for-the-badge)
+![Platform Events](https://img.shields.io/badge/Platform_Events-Async%20Messaging-6A1B9A?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-Real--Time-6A1B9A?style=for-the-badge)
 
-![Salesforce Flow](https://img.shields.io/badge/Flow_Automation-00A1E0?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
-![Platform Events](https://img.shields.io/badge/Platform_Events-6A1B9A?style=for-the-badge)
+![SOQL](https://img.shields.io/badge/SOQL-Optimized%20Queries-1E88E5?style=for-the-badge)
+![Reports](https://img.shields.io/badge/Reports-Advanced-1E88E5?style=for-the-badge)
+![Dashboards](https://img.shields.io/badge/Dashboards-Executive-1E88E5?style=for-the-badge)
+![Data Loader](https://img.shields.io/badge/Data_Loader-Migration%20%26%20Cleanup-1E88E5?style=for-the-badge)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SOQL](https://img.shields.io/badge/SOQL-1E88E5?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge)
+![User Management](https://img.shields.io/badge/User_Management-Roles%20%26%20Profiles-37474F?style=for-the-badge)
+![Permission Sets](https://img.shields.io/badge/Permission_Sets-Scalable%20Access-37474F?style=for-the-badge)
+![Sharing Rules](https://img.shields.io/badge/Sharing_Rules-OWD%20%26%20Visibility-37474F?style=for-the-badge)
+![SSO](https://img.shields.io/badge/SSO-SAML%20%7C%20OAuth-37474F?style=for-the-badge)
+
+![DevOps](https://img.shields.io/badge/DevOps-Gearset%20%7C%20Copado-0A0A0A?style=for-the-badge)
+![Change Sets](https://img.shields.io/badge/Change_Sets-Controlled%20Deployments-0A0A0A?style=for-the-badge)
+![Sandboxes](https://img.shields.io/badge/Sandboxes-Dev%20%7C%20QA%20%7C%20UAT-0A0A0A?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version%20Control-0A0A0A?style=for-the-badge&logo=git)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-API%20Payloads-616161?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman)
+
 
 ---
 ## Overview
