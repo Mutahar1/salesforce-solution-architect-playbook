@@ -6,7 +6,23 @@ Production-grade Salesforce patterns covering **custom development, automation, 
 This repository represents how Salesforce is built in **real organizations** with multiple teams, complex security, integrations, and long-term scalability in mind.
 
 ---
+## 🛠 Tech Stack
 
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge)
+![Lightning Web Components](https://img.shields.io/badge/LWC-0176D3?style=for-the-badge)
+![Aura](https://img.shields.io/badge/Aura-4B9CD3?style=for-the-badge)
+![Visualforce](https://img.shields.io/badge/Visualforce-005FB2?style=for-the-badge)
+
+![Salesforce Flow](https://img.shields.io/badge/Flow_Automation-00A1E0?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+![Platform Events](https://img.shields.io/badge/Platform_Events-6A1B9A?style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SOQL](https://img.shields.io/badge/SOQL-1E88E5?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge)
+
+---
 ## Overview
 
 This project showcases hands-on Salesforce experience across:
