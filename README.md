@@ -3,7 +3,7 @@
 
 Production-grade Salesforce patterns covering **custom development, automation, integrations, and enterprise governance**.
 
-This repository represents how Salesforce is built in **real organizations** — with multiple teams, complex security, integrations, and long-term scalability in mind.
+This repository represents how Salesforce is built in **real organizations** with multiple teams, complex security, integrations, and long-term scalability in mind.
 
 ---
 
@@ -38,7 +38,7 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 - Declarative-first where it makes sense
 - Apex only when it adds real value
-- Bulk-safe, secure, and testable code
+- Bulk safe, secure, and testable code
 - Modular UI components
 - Integration patterns with proper error handling
 - Governance baked into design
@@ -92,13 +92,6 @@ Built with an **architect mindset**, not tutorial shortcuts.
 ![image alt](https://github.com/Mutahar1/salesforce-solution-architect-playbook/blob/28f27f7770d7c040805b8d38f63ea095f7d06e8d/screenshots/dashboards/account-dashboard.png%20(4).png)
 
 ---
-
-## Architecture Overview
-
-Detailed architectural decisions and patterns are documented in:
-- `docs/architecture.md`
-- `docs/automation-strategy.md`
-- `docs/integration-patterns.md`
 
 ---
 
