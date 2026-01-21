@@ -7,6 +7,12 @@ This repository represents how Salesforce is built in **real organizations** wit
 
 ---
 ## 🛠 Tech Stack
+![Salesforce](https://img.shields.io/badge/Salesforce-Enterprise%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-v60+-1798C1?style=for-the-badge)
+![Lightning Web Components](https://img.shields.io/badge/LWC-v60+-0176D3?style=for-the-badge)
+![Aura](https://img.shields.io/badge/Aura-Legacy%20Support-4B9CD3?style=for-the-badge)
+![Visualforce](https://img.shields.io/badge/Visualforce-Classic%20%26%20Hybrid-005FB2?style=for-the-badge)
+
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge)
