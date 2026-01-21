@@ -84,11 +84,12 @@ Built with an **architect mindset**, not tutorial shortcuts.
 
 ### Lightning Web Components
 ![Account Dashboard](screenshots/lwc-components/account-dashboard.png)
-![Account Dashboard](screenshots/lwc-components/aacount.png)
+
 
 
 ### Automation (Flows)
-![Record Triggered Flow](screenshots/flows/record-triggered-flow.png)
+![Record Triggered Flow](screenshots/flows/record-triggered-flow.png(10).png)
+
 
 ### Integrations
 ![REST API Callout](screenshots/flows/record-triggered-flow.png (10).png)
