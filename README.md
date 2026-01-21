@@ -91,14 +91,13 @@ Built with an **architect mindset**, not tutorial shortcuts.
 ![image alt](https://github.com/Mutahar1/salesforce-solution-architect-playbook/blob/3f0019f961a7cb6be447a971cc933537f3a32313/screenshots/flows/record-triggered-flow.png%20(10).png)
 
 ### Integrations
-![REST API Callout](screenshots/flows/record-triggered-flow.png (10).png)
-
+![iamge alt](https://github.com/Mutahar1/salesforce-solution-architect-playbook/blob/28f27f7770d7c040805b8d38f63ea095f7d06e8d/screenshots/lwc-components/rest-api-callout.png%20(5).png)
 
 ### Security Configuration
-![Permission Sets](screenshots/security/permission-sets.png)
+![image alt](https://github.com/Mutahar1/salesforce-solution-architect-playbook/blob/28f27f7770d7c040805b8d38f63ea095f7d06e8d/screenshots/flows/record-triggered-flow.png%20(15).png)
 
 ### Reporting & Dashboards
-![Admin Dashboard](screenshots/dashboards/admin-monitoring.png)
+![image alt](https://github.com/Mutahar1/salesforce-solution-architect-playbook/blob/28f27f7770d7c040805b8d38f63ea095f7d06e8d/screenshots/dashboards/account-dashboard.png%20(4).png)
 
 ---
 
