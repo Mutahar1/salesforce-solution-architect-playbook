@@ -8,8 +8,6 @@ This repository represents how Salesforce is built in **real organizations** wit
 ---
 ## 🛠 Tech Stack
 
-## 🛠 All-in-One Salesforce Tech Stack
-
 ![Salesforce](https://img.shields.io/badge/Salesforce-Enterprise%20%7C%20Multi--Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-Enterprise-00A1E0?style=for-the-badge)
 ![Service Cloud](https://img.shields.io/badge/Service_Cloud-Enterprise-00A1E0?style=for-the-badge)
